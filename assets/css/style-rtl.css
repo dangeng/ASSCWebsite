@@ -1138,40 +1138,6 @@ Photography Page Slider
   z-index: 11;
 }
 
-/* -------------------------------------------------------------------
-General Styles - Owlcarousel
-------------------------------------------------------------------- */
-.owl-controls {
-  margin-top: 40px;
-}
-
-.owl-pagination div {
-  display: inline-block;
-}
-
-.owl-controls .owl-page span {
-  background: transparent;
-  border: 1px solid #111;
-  display: block;
-  height: 6px;
-  width: 6px;
-  margin: 0 3px 5px;
-  border-radius: 6px;
-  transition: all 0.3s ease-in-out 0s;
-}
-
-.owl-controls .owl-page.active span,
-.owl-controls.clickable .owl-page:hover span {
-  background: #111;
-}
-
-.owl-controls .owl-buttons > div {
-  display: inline-block;
-  margin: 5px;
-  font-size: 14px;
-  color: #111;
-}
-
 /*--------------------------------------------------------------
 	Preloader
 --------------------------------------------------------------*/
